@@ -1,0 +1,21 @@
+
+
+header{
+  background-color: black;
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px 0; 
+}
+
+
+section h3{
+    padding-bottom: 0;
+    margin-bottom: 0%;
+}
+
+form{
+    padding-bottom: 1px;
+    padding-top: 10px;
+    display: flex;
+}
